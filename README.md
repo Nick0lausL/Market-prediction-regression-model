@@ -11,6 +11,7 @@ A linear regression-based machine learning tool that predicts future stock closi
     *   Bollinger Bands
     *   Lagged Price/Volume data
 *   **Visualization:** Automatically plots Actual vs Predicted prices.
+![Market Prediction Results (Asset - SFY, Training - 8y, Testing - 2y)](market_prediction_results.png)
 
 ## Logic
 The model provides recommendations based on the predicted % change:
